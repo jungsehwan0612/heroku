@@ -1,0 +1,7 @@
+[client]
+database = whattoeat
+host = 70.12.115.69
+port = 3306
+user = whattoeat
+password = whattoeat1
+default-character-set = utf8
